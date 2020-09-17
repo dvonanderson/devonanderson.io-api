@@ -1,8 +1,8 @@
 {
-  "name": "devonanderson-io-api",
+  "name": "devonanderson.net api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "strapi api for devonanderson.net",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -26,7 +26,7 @@
     "strapi-utils": "3.1.4"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Devon Anderson"
   },
   "strapi": {
     "uuid": "4b2e777e-dd01-4d3c-b771-a94d421f5691"
